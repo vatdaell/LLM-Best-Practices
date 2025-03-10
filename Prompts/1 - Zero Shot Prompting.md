@@ -3,7 +3,8 @@ Zero shot prompting is a technique where you provide an LLM with a prompt withou
 
 Prompt:
 ```
-Rate the sentence sentiment as positive or negative text, only reply with positive or negative: I cannot believe that the actors agreed to do this "film". Sentiment:
+Rate the sentence sentiment as positive or negative text, only reply with positive or negative: 
+I cannot believe that the actors agreed to do this "film". Sentiment:
 ```
 
 Response:
